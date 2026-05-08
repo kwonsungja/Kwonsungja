@@ -1,4 +1,4 @@
-# Welcome to Kwon's Github (Since Nov 10, 2024)👋
+## Welcome to Kwon's Github (Since Nov 10, 2024)👋
 
 <!--
 **kwonsungja/Kwonsungja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
