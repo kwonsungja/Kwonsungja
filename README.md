@@ -4,7 +4,7 @@
 - Interested in AI-assisted and technology on language learning
 - Research areas:
   - Vocabulary
-  - Digital English Education
+  - Digital and technology English Education
 
 ## Projects
 - English Learning Apps
@@ -12,7 +12,7 @@
 - AI Quiz Systems
 
 ## Contact
-- GitHub: https://github.com/yourname
+- GitHub: https://github.com/kwonsungja
 
 
 <!--
