@@ -1,19 +1,4 @@
-# Welcome to Kwon's Github 👋
-
-## About Me
-- Interested in AI-assisted and technology on language learning
-- Research areas:
-  - Vocabulary
-  - Digital and technology English Education
-
-## Projects
-- English Learning Apps
-- Streamlit Classroom Apps
-- AI Quiz Systems
-
-## Contact
-- GitHub: https://github.com/kwonsungja
-
+# Welcome to Kwon's Github (Since Nov 10, 2024)👋
 
 <!--
 **kwonsungja/Kwonsungja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
